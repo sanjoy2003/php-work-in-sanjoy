@@ -1,0 +1,16 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: content-box;
+}
+.contaner{
+    max-width: 80%;
+    background-color: blanchedalmond;
+    text-align: center;
+    margin:34px;
+    padding:23px;
+    margin:auto;
+}
+.container h3{
+text-align:center;
+}
